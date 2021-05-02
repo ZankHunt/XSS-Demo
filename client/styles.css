@@ -1,0 +1,30 @@
+.title {
+	text-align: center;
+}
+
+.form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#allMessages > div {
+    width: 50%;
+    margin: 0 auto;
+    background: hsl(0, 0%, 95%);
+    padding: 12px;
+    border-radius: 4px;
+}
+
+#next {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.posts {
+    width: 50%;
+    margin: 0 auto;
+    background: hsl(0, 0%, 95%);
+    padding: 12px;
+    border-radius: 4px;
+}
